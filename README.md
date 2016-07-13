@@ -4,7 +4,7 @@ Native application for PostStatus.com Slack channel. This application is an Elec
 
 ## OS Support
 
-- Mac OS X 64 bit
+- [Mac OS X 64 bit](https://github.com/ahmadawais/PostStatus-Slack-App/tree/master/PostStatus%20Slack-darwin-x64)
 - Windows — 32 bit (Create an issue if you need one and I will upload one)
 - Windows — 32 bit (Create an issue if you need one and I will upload one)
 
