@@ -16,7 +16,7 @@ This slack app has a custom app icon, I'll let you figure it out with the screen
 
 
 
-## Why Not Native Slack App??
+## Why Not Native Slack App?!
 
 💯 **Reason #1**: Slack native application is a huge resource hog. At my end it consumes 3x RAM as compared to Chrome Basic App without helpers. Being part of more than 15 Slack teams, my native Mac app for Slack had become sluggish as hell, and it was consuming 1.5 GBs of RAM all the time.
 
